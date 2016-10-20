@@ -2,39 +2,39 @@
 	"wordOpts" : [
 		{
 			"word":"hypertext",
-			"punchline":""
+			"punchline":"Cruising through hypertext with nowhere to go!"
 		},
 		{
 			"word":"compiler",
-			"punchline":""
+			"punchline":"You byte off more than you can chew."
 		},
 		{
 			"word":"interpretive",
-			"punchline":""
+			"punchline":"Now I will present my interpretive dance!"
 		},
 		{
 			"word":"server",
-			"punchline":""
+			"punchline":"Meet your server with devout fervor!"
 		},
 		{
 			"word":"protocol",
-			"punchline":""
+			"punchline":"When you need to speak with an athlete, know the right pro-to-call!"
 		},
 		{
 			"word":"parameter",
-			"punchline":""
+			"punchline":"It's not a parameter, it's at least three meters tall!"
 		},
 		{
 			"word":"javascript",
-			"punchline":""
+			"punchline":"Your bark is worse than your byte!"
 		},
 		{
 			"word":"database",
-			"punchline":""
+			"punchline":"All your database are belong to us."
 		},
 		{
 			"word":"markup",
-			"punchline":""
+			"punchline":"Be sure to mark your calendars up!"
 		}
 	]
 }

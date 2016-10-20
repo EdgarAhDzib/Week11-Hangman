@@ -3,4 +3,7 @@ var wordOpts = words.wordOpts;
 var optsLen = wordOpts.length;
 var rand = Math.floor(Math.random()*optsLen);
 var currWord = wordOpts[rand].word;
-module.exports = currWord;
+var punchline = wordOpts[rand].punchline;
+var workArray = [currWord,punchline];
+
+module.exports = workArray;

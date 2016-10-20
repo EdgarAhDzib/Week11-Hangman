@@ -4,10 +4,10 @@ var theWord = require('./game.js');
 
 var keystrokes = require('inquirer');
 
-var play = new Hangman(theWord);
+var play = new Hangman(theWord[0],theWord[1]);
 play.chars();
 
-var spaceList = new WordSpaces(theWord);
+var spaceList = new WordSpaces(theWord[0]);
 spaceList.spacesArray();
 
 var counter = 1;
@@ -58,6 +58,7 @@ function getTheLetters(){
 		});
 	} else {
 		console.log("You got it! Way to go!");
+		console.log(play.punchline);
 	}
 }
 
