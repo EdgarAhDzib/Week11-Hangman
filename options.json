@@ -1,0 +1,40 @@
+{
+	"wordOpts" : [
+		{
+			"word":"hypertext",
+			"punchline":""
+		},
+		{
+			"word":"compiler",
+			"punchline":""
+		},
+		{
+			"word":"interpretive",
+			"punchline":""
+		},
+		{
+			"word":"server",
+			"punchline":""
+		},
+		{
+			"word":"protocol",
+			"punchline":""
+		},
+		{
+			"word":"parameter",
+			"punchline":""
+		},
+		{
+			"word":"javascript",
+			"punchline":""
+		},
+		{
+			"word":"database",
+			"punchline":""
+		},
+		{
+			"word":"markup",
+			"punchline":""
+		}
+	]
+}

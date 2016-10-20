@@ -1,0 +1,22 @@
+{
+  "name": "week11-hangman",
+  "version": "1.0.0",
+  "description": "hangman in node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "C"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdgarAhDzib/Week11-Hangman.git"
+  },
+  "dependencies": {
+    "inquirer": "^1.2.2"
+  },
+  "author": "Edgar Martin del Campo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EdgarAhDzib/Week11-Hangman/issues"
+  },
+  "homepage": "https://github.com/EdgarAhDzib/Week11-Hangman#readme"
+}
